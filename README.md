@@ -34,17 +34,6 @@ Javascript, HTML, CSS...
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Deploy
 
 Para fazer o deploy desse projeto rode
@@ -57,4 +46,11 @@ Para fazer o deploy desse projeto rode
 ## Autores
 
 - [@renanfranca27](https://github.com/renanfranca27)
+
+
+### 📝 LICENSE
+
+<h4 align="center"> 
+	🚧  Todos os direitos reservados ©Copyright -® renanfranca...  🚧
+</h4>
 
