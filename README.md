@@ -12,9 +12,6 @@ Eu sou uma pessoa que esta iniciando na área de  desenvolvimento de website...
 
 
 
-
-
-
 ## 🛠 Habilidades
 Javascript, HTML, CSS...
 
