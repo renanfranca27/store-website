@@ -32,6 +32,7 @@ Para fazer o deploy desse projeto rode
 ## Autores
 
 - [@renanfranca27](https://github.com/renanfranca27)
+- [@renanfranca27](https://github.com/renanfranca27)
 
 
 ### 📝 LICENSE
