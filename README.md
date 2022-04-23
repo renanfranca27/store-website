@@ -17,7 +17,8 @@ Javascript, HTML, CSS...
 
 ## SITE ON 
 <p> VOCÊ PODE VER O SITE AQUI, MAIS AS IMG NÃO TEM COMO VER PELO GIT PAGES.</p>
-- [SITE](https://renanfranca27.github.io/store-website/)
+
+- [site ON](https://renanfranca27.github.io/store-website/)
 
 
 ## Deploy
@@ -31,7 +32,6 @@ Para fazer o deploy desse projeto rode
 
 ## Autores
 
-- [@renanfranca27](https://github.com/renanfranca27)
 - [@renanfranca27](https://github.com/renanfranca27)
 
 
