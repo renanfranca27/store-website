@@ -17,7 +17,7 @@ Javascript, HTML, CSS...
 
 ## SITE ON 
 <p> VOCÊ PODE VER O SITE AQUI, MAIS AS IMG NÃO TEM COMO VER PELO GIT PAGES.</p>
-[SITE](https://renanfranca27.github.io/store-website/)
+- [SITE](https://renanfranca27.github.io/store-website/)
 
 
 ## Deploy
