@@ -2,6 +2,7 @@
 
 body {
     background: #afd9d5;
+    margin: 0;
 }
 .container{
     display: flex;
@@ -34,6 +35,14 @@ body {
     animation-duration: 2s;
     background: #e0e2e0;
 }
+
+#shop:hover{
+    background: #0ec;
+}
+#buy:hover{
+    background: #0ec;
+}
+
 #fone {
     position: absolute;
     margin-left: 50vh;  
@@ -127,8 +136,8 @@ footer {
     background: #75b3cf;
     position: absolute;
     top: 430vh;
-    width: 1340px;
-    height: 400px;
+    width: 50%;
+    height: 50%;
 }
 #main {
  margin-left: 100vh;
