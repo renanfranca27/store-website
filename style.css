@@ -24,6 +24,7 @@ body {
     height: 46px;
     animation: backInLeft;
     animation-duration: 3s;
+    cursor: pointer;
 }
 #shop {
     border-radius: 20px;
@@ -34,6 +35,7 @@ body {
     animation: backInLeft;
     animation-duration: 2s;
     background: #e0e2e0;
+    cursor: pointer;
 }
 
 #shop:hover{
